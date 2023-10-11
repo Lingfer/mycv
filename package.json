@@ -1,6 +1,7 @@
 {
   "name": "cv",
   "version": "0.1.0",
+  "homepage": "https://Lingfer.github.io/mycv",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.0.18",
