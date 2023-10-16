@@ -56,7 +56,7 @@ function Home() {
       judul: "Full Stack Developer",
       Exp: "Full Time",
       time: "01-09-2019 - 01-09-2020",
-      perusahaan: "Metropolitan Golden Management",
+      perusahaan: "MGM",
       iconPerusahaan: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEX////8+vb28OTw5dPz693u4cvYu4nQrW/Pq2vXuYTo2Lz+/vzj0K3PqmnPrGzdxJnizKf69/HVtn7OqmnTsnfav5Dr3cXfyKDm1LSuWMDbAAAA5UlEQVR4AWKgFgD0QleJDcNAFEXH+GQY0YT2v9JWZkGbfOX8mK5FVd0k2oouuh4qgWGcaDezQkaz2YuRw/MCwX7HlhbOa0D7BX5tdyGpKegEwOiCGoBqXdDdABkpmAXqPlHgAHBNC8v7HFagTB7McgT8hUB4X6RmyYPH8/ncjrWarbUuDWgqoZn3YDRFXp9rUCUaZ4CiKNCSiUbQfs70OjooymQn+U8gb4KXQA+OEpNRkJmCVgPadE2kewKQjoLqzoASjogA2m/j1lAo0NzQpvXCSscU3zo6uNH0ifurjhddJSb60A8QJRopkW+xcgAAAABJRU5ErkJggg==" className="h-4 w-4" />,
       city: "Jakarta",
       iconCity: <FaLinkedin className="h-4 w-4" />,
